@@ -1,11 +1,5 @@
 # room
 
-Room with base three.js elements
-
-For start: 
-
-  clone repo, 
-  npm i,
-  npm run build:dev
+Room with base three.js elements build for github-pages
 
 
